@@ -24,7 +24,7 @@
     "assets/images/gallery-19.png",
   ];
 
-  const HERO_MAIN = "assets/images/hero-main.png";
+  const HERO_MAIN = "assets/images/hero-main.jpg";
   const HERO_SUB = "assets/images/hero-sub.png";
 
   function setBg(el, src) {
